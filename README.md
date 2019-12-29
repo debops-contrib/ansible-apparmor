@@ -20,7 +20,7 @@ logged via syslog to the kernel facility which usually ends up under
 
 ### Installation
 
-This role requires at least Ansible `v2.1.3`. To install it, run:
+This role requires at least Ansible `v2.5`. To install it, run:
 
 ```Shell
 ansible-galaxy install debops-contrib.apparmor
